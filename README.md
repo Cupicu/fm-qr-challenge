@@ -6,15 +6,23 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
 ### Screenshot
 
 ![](./screenshot.jpg)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/html5-and-css-solution-o1cXxb1Nml)
+- Live Site URL: [Add live site URL here](https://cupicu.github.io/fm-qr-challenge/)
 
 ## My process
 
